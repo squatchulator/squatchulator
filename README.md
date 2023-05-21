@@ -4,6 +4,8 @@ description: This is my gitbook page to handle both school and personal projects
 
 # 💾 Welcome!
 
+**Check out my tech journal here:** [https://github.com/squatchulator/Tech-Journal/wiki](https://github.com/squatchulator/Tech-Journal/wiki)&#x20;
+
 ### How to reach me:
 
 **Linkedin:** [https://www.linkedin.com/in/miles-cummings/](https://www.linkedin.com/in/miles-cummings/)
