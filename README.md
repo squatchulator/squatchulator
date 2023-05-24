@@ -1,6 +1,3 @@
----
-description: This is my gitbook page to handle both school and personal projects.
----
 
 # 💾 Welcome!
 
