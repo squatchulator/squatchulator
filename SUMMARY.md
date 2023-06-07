@@ -34,3 +34,7 @@
 * [Lab 10.1: Packet Tracer RIP Lab](net-150-networking-fundamentals/lab-10.1-packet-tracer-rip-lab.md)
 * [Lab 11.1: VLANs in Packet Tracer](net-150-networking-fundamentals/lab-11.1-vlans-in-packet-tracer.md)
 * [Lab 12.2: Building a WLAN in Packet Tracer](net-150-networking-fundamentals/lab-12.2-building-a-wlan-in-packet-tracer.md)
+
+## Personal Documentation
+
+* [Configuring the ELK Stack](personal-documentation/configuring-the-elk-stack.md)
