@@ -19,4 +19,4 @@ I'm a Computer Networking and Cybersecurity student going into my senior year at
 
 I'm working part-time at a cybersecurity firm run by my college that offers security and IT support to clients across the state of Vermont, and have found that I thoroughly enjoy the process of finding solutions to technology problems and working face-to-face with clients during that process.
 
-Outside of school & work, I love to watch hockey and baseball, play roguelite games, and explore Vermont when its warm out. 
+Outside of school & work, I love to watch hockey and baseball, play roguelite games, model & paint miniatures, and explore Vermont when its warm out. 
