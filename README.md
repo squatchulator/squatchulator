@@ -1,7 +1,7 @@
 
 # 💾 Welcome!
 
-**Check out my tech journal here:** [https://github.com/squatchulator/Tech-Journal/wiki](https://github.com/squatchulator/Tech-Journal/wiki)&#x20;
+**Check out my tech journal here:** https://github.com/squatchulator/squatchulator/wiki
 
 ### How to reach me:
 
