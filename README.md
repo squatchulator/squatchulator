@@ -1,7 +1,7 @@
 
 # 💾 Welcome!
 
-**Check out my tech journals & projects here:** [https://github.com/squatchulator/](https://github.com/squatchulator?tab=repositories)
+**Check out my tech journals & projects [here](https://github.com/squatchulator?tab=repositories)**
 
 ### How to reach me:
 
