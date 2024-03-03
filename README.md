@@ -1,7 +1,8 @@
 
 # 💾 Welcome!
 
-**Check out my tech journals & projects [here](https://github.com/squatchulator/Tech-Journal/wiki)**
+**Check out my tech journals & projects [here](https://github.com/squatchulator/Tech-Journal/wiki)** 
+(NOTE: This repo is set for private during my time at Champlain. If you would like to view it before then, contact me using the email below.)
 
 ### How to reach me:
 
